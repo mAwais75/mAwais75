@@ -1,14 +1,62 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais Khalid</h1>
-<h3 align="center">A passionate Test Automation Engineer from Pakistan</h3>
+# 👋 Hi, I'm Muhammad Awais Khalid
 
-- 📫 How to reach me **ma.khalid072@gmail.com**
+🎯 **Full-Stack QA Engineer** | 🔍 Manual & Test Automation | 🎭 Playwright | 🌿 Cypress | 🌐 API Automation | 🧪 Agile Testing Specialist
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/makhalid072/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/makhalid072/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mawais75&show_icons=true&locale=en&layout=compact" alt="mawais75" /></p>
+I'm a passionate and detail-oriented **Software Quality Assurance Engineer** with 3+ years of experience in both **manual** and **automated testing** of web applications across diverse domains including SaaS, e-commerce, POS, AI-driven platforms, healthcare, and logistics.
+
+I specialize in building robust, scalable, and maintainable **E2E automation test suites** using tools like **Cypress** and **Playwright**, along with automated **API testing** using **Postman**, **Newman**, and **Swagger**. I bring a solid understanding of **Agile frameworks** (Scrum, Kanban, Scrumban, SAFe) and work closely with cross-functional teams to ensure high product quality and fast feedback loops.
+
+---
+
+## 🚀 Technical Skills
+
+### 🧪 Core QA & Testing Expertise
+- Manual Testing: Functional, UI/UX, Regression, Integration, Smoke, Sanity, E2E, UAT, Ad-hoc, Exploratory
+- Test Documentation: Test Plans, Test Cases, Scenarios, Bug Reports, Traceability
+- Agile Testing: Active Scrum participation (Daily Standups, Sprint Planning, Retrospectives)
+- Defect Management: Root Cause Analysis, Bug Life Cycle, Risk-Based Testing
+- Platforms: Cross-browser, Cross-platform (Web & Mobile)
+
+### 🛠️ Automation Tools & Frameworks
+- **Playwright (JavaScript/TypeScript)**
+- **Cypress (JavaScript/TypeScript)**
+- **Page Object Model (POM)**, **Data-Driven Testing (DDT)**
+- **Postman + Newman** for API automation
+- **Swagger** for contract-based API testing
+- **Qase.io**, **Testspace**, **Allure Reports** (reporting)
+- **CI/CD Integration**: GitHub Actions, Jenkins (basic knowledge)
+
+### 🗂️ Project & Source Control
+- **GitHub**, **ClickUp**, **Jira**
+
+### 🌐 Domain Experience
+- SaaS Platforms, E-commerce, POS Systems, AI-based Products, Healthcare, Logistics
+
+---
+
+## 📈 GitHub Highlights
+
+Here’s what you’ll find in my repositories:
+
+- 📦 Cypress & Playwright boilerplate projects
+- 🧪 End-to-end test cases for real-world scenarios
+- 🔁 Reusable utilities and custom commands
+- 🔌 API testing projects with Postman/Newman
+- 📄 Test strategies, bug reports, and test plans
+- ⚙️ CI/CD workflows for automation integration
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/makhalid072/)
+- 📧 Email: [ma.khalid072@gmail.com](mailto:ma.khalid072@gmail.com)
+
+---
+
+_“Quality is never an accident. It is always the result of intelligent effort.” — John Ruskin_
+
